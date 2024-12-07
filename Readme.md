@@ -44,8 +44,9 @@ Installation
 
 ### Step 1: Clone the repository
 
-`git clone https://github.com/your-username/book-search-api.git
-cd book-search-api` 
+`git clone https://github.com/kunalarya873/better`
+
+`cd better` 
 
 ### Step 2: Set up the virtual environment
 
